@@ -1,7 +1,7 @@
   import React from 'react';
   import { Canvas } from '@react-three/fiber';
   import { OrbitControls } from '@react-three/drei';
-  import KanavAdd from './kanavadd';
+  import KanavAdd from './KanavAdd';
   import "./style.css";
   import { Bloom, EffectComposer, ToneMapping } from '@react-three/postprocessing';
 
